@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/tupian"/>
+    <qresource prefix="/tupian">
+        <file>giphy6.gif</file>
+        <file>1.bmp</file>
+        <file>2.bmp</file>
+        <file>3.bmp</file>
+        <file>5.bmp</file>
+        <file>6.bmp</file>
+        <file>8.bmp</file>
+        <file>4.bmp</file>
+        <file>7.bmp</file>
+        <file>12.bmp</file>
+        <file>13.bmp</file>
+        <file>14.bmp</file>
+        <file>15.bmp</file>
+        <file>16.bmp</file>
+        <file>18.bmp</file>
+        <file>19.bmp</file>
+        <file>20.bmp</file>
+        <file>21.bmp</file>
+        <file>22.bmp</file>
+        <file>17.bmp</file>
+        <file>11.bmp</file>
+        <file>10.bmp</file>
+        <file>9.bmp</file>
+        <file>titlee.png</file>
+        <file>titlee2.png</file>
+        <file>23.bmp</file>
+    </qresource>
+</RCC>
